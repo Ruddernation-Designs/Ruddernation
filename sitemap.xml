@@ -13,7 +13,7 @@
 	<changefreq>monthly</changefreq>
   </url>
     <url>
-    <loc>https://www.ruddernation.com/index.php</loc>
+    <loc>https://www.ruddernation.com/index.html</loc>
 	<changefreq>monthly</changefreq>
   </url>
     <url>
@@ -85,11 +85,11 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>https://www.ruddernation.com/cookie-policy/index.php</loc>
+  <loc>https://www.ruddernation.com/cookie-policy/index.html</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>https://www.ruddernation.com/privacy-policy/index.php</loc>
+  <loc>https://www.ruddernation.com/privacy-policy/index.html</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
