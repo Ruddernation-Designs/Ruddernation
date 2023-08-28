@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+https://www.ruddernation.com/sitemap.xml
