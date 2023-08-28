@@ -1,0 +1,30 @@
+/* TEAM */
+
+	Developed by: Ruddernation Designs
+	Contact: support@ruddernation.com
+	From: United Kingdom
+	Location: Liverpool
+	Domain: https://www.ruddernation.com
+    	Terms & Conditions: https://www.ruddernation.com/tac
+    	Privacy Policy: https://www.ruddernation.com/privacy-policy
+    	Cookie Policy: https://www.ruddernation.com/cookie-policy
+
+/* SITE */
+
+	Start of the new look: 04 September 2021
+	Last Major Update: 15 April 2023
+    	Last Minor Update: 29 August 2023
+	Language: English (GB)
+	Doctype: HTML5
+	Software: cloudflare-nginx
+	Programming Languages: PHP, Hack, Python, JavaScript
+	Markup Languages: HTML5
+	Style Sheet Language: CSS3, SASS
+	Fully hosted on GitHub
+	
+/* SPECIAL THANKS */
+
+	jQuery: https://jquery.org
+	Tinychat: https://tinychat.com
+	@ajlkn | github.com/ajlkn
+	GitHub: github.com
