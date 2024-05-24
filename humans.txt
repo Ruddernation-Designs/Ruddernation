@@ -12,8 +12,8 @@
 /* SITE */
 
 	Start of the new look: 04 September 2021
-	Last Major Update: 15 April 2023
-    	Last Minor Update: 29 August 2023
+	Last Major Update: 23 May 2024
+    	Last Minor Update: 24 May 2024
 	Language: English (GB)
 	Doctype: HTML5
 	Software: cloudflare-nginx
