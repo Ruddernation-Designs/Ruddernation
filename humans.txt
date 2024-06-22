@@ -16,8 +16,8 @@
     	Last Minor Update: 24 May 2024
 	Language: English (GB)
 	Doctype: HTML5
-	Software: cloudflare-nginx
-	Programming Languages: PHP, Hack, Python, JavaScript
+	Software: nginx
+	Programming Languages: PHP, JavaScript
 	Markup Languages: HTML5
 	Style Sheet Language: CSS3, SASS
 	Fully hosted on GitHub
