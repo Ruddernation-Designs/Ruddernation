@@ -450,7 +450,7 @@ $( "body"  ).css( {"background-color" : color } );})});
 							It'll display the colour below the form.</h4>
 								<form name="hex2rgb">
  							 <br>
-<input class="bar" type="text" name="hexcolour" size="30" id="hexcolour" placeholder="Hex Colour Code (00FF00): "  tabindex="3" /><br>
+<br>
 <input class="answerbutton" type="text"  name="redcolour" id="redcolour" readonly="readonly" placeholder=" Red: "  /><br>
 <input class="answerbutton" type="text"  name="greencolour" id="greencolour" readonly="readonly" placeholder="Green: "  /><br>
 <input class="answerbutton" type="text"  name="bluecolour" id="bluecolour" readonly="readonly" placeholder="Blue: "  /><br>
@@ -591,7 +591,7 @@ $( "body"  ).css( {"background-color" : color } );})});
 		<p>Just search Ruddernation.</p>
 			<ul class="icons">
 <li><a href="https://github.com/Ruddernation-Designs" class="icon brands fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-<li><a href="https://www.facebook.com/rndtinychat" class="icon brands fa-facebook-f" target="_blank"><span class="label">Facebook</span></a></li>
+<!--<li><a href="https://www.facebook.com/rndtinychat" class="icon brands fa-facebook-f" target="_blank"><span class="label">Facebook</span></a></li>-->
 <li><a href="https://stackoverflow.com/users/5774880/rudder" class="icon brands fa-stack-overflow" target="_blank"><span class="label">StackOverflow</span></a></li>
 <li><a href="https://profiles.wordpress.org/ruddernationdesigns" class="icon brands fa-wordpress" target="_blank"><span class="label">WordPress</span></a></li>
 <li><a href="https://bitbucket.org/ruddernation-designs/" class="icon brands fa-bitbucket" target="_blank"><span class="label">BitBucket</span></a></li>
@@ -602,7 +602,7 @@ $( "body"  ).css( {"background-color" : color } );})});
 									<div class="copyright">
 										<ul class="menu">
 											<li>
-											<a href="https://www.ruddernation.com" class="footer" title="Created and Designed by Ruddernation Designs">Ruddernation&trade; Designs <?php echo date("Y"); ?></a> | 
+                                                <a href="https://www.ruddernation.com" class="footer" title="Created and Designed by Ruddernation Designs">Ruddernation&trade; Designs 1998 <!--</h1><span id="current_month"></span>--> <span id="current_year"></span></a> | 
 											<a href="/cookie-policy" class="footer" title="Cookie Policy">Cookie Policy</a> | 
 											<a href="/privacy-policy" class="footer" title="Privacy Policy">Privacy Policy</a> | 
 											<a href="/tac" class="footer" title="Terms and Conditions">Terms and Conditions</a></li>
@@ -615,6 +615,8 @@ $( "body"  ).css( {"background-color" : color } );})});
 
 		<i id="top-page" class="icon solid fa-arrow-up circled"></i>
 		<!-- Scripts -->
+            <script type="text/javascript">document.getElementById('current_year').innerHTML = new Date().getFullYear();
+				document.getElementById('current_month').innerHTML = new Date().toLocaleString('default', { month: 'long' });</script>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/stt.js"></script>
 			<script src="assets/js/troll.js"></script>
