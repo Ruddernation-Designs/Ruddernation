@@ -3145,7 +3145,7 @@ input, select, textarea {
     right: 20px;
     bottom: 20px;
     cursor: pointer;
-    font: bold 2rem monospace;
+    font: bold 2em monospace;
     color:white;
     display: none;
 }
