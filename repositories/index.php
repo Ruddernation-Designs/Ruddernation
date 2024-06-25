@@ -1,12 +1,3 @@
-<?php if (function_exists('header_remove')) {
-    header_remove('X-Powered-By'); // PHP 5.3+
-	header_remove('Public-Key-Pins');
-	
-} else {
-    @ini_set('expose_php', 'off');
-	//@ini_set('ServerSignature', 'off');
-}
-?>
 <!DOCTYPE html>
  <html>
  <head>
@@ -67,9 +58,7 @@
 	<div data-repo="Ruddernation-Designs/jumpinchat-web" class="github-box-wrap"></div>
 	</div>
 	<br>
-	<!-- Google Ads -->
-					<?php include "./../ads/google.html" ?>
-<!-- Google Ads End -->
+
 	<h1><a href="https://github.com/Ruddernation" target="_blank" title="Ruddernation on GitHub.">Ruddernation Repositories.</a></h1><br>
 	<div data-repo="Ruddernation/Website-Theme" class="github-box-wrap"></div>
 	<h1><a href="https://github.com/Tinychat" target="_blank" title="Return to the home page.">Tinychat Repositories.</a></h1><br>
@@ -88,9 +77,6 @@
  <script>
  	$('[data-repo]').github();
  </script>
-<!-- Google Ads -->
-					<?php include "./../ads/google.html" ?>
-<!-- Google Ads End -->
 	 </div>
 	 <!-- Footer section start -->
 <div class="footer"><p><a href="/" class="footer" title="Ruddernation Designs">Ruddernation&trade; Designs <span id="current_year"></span></a>
