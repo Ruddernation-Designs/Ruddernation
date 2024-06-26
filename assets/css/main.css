@@ -3158,3 +3158,10 @@ input, select, textarea {
     .codebox code {
         font-size:0.9em;
     }
+		.divp {
+    color: #495057;
+    border: 1px solid #aaaaaa;
+    border-radius: 3px;
+    background: #00FF00;
+    padding: 2.5rem 0;
+}
